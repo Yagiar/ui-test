@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SeleniumTests
-build_property.ProjectDir = /Users/otrix/code/tpo6/
+build_property.ProjectDir = /Users/otrix/code/ui-test-tpo6/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

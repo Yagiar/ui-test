@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vzvXj/evAA6oFz/emd9hKON5ATcEXn1oE3ek2KoXXaGYOSM+4X0snfF7JIU8+yT+Ce6eyx3huFPg50ixkir/zg==",
+  "dgSpecHash": "Yx/c0MOeBB5a1qS/ZJoRXm2bg7VSvcWUO+yTGEiz9BS9wGUX/YwkuJ/+WhPEKuAueH80nmQDk6bKllMiBPE2SA==",
   "success": true,
-  "projectFilePath": "/Users/otrix/code/tpo6/SeleniumTests.csproj",
+  "projectFilePath": "/Users/otrix/code/ui-test-tpo6/SeleniumTests.csproj",
   "expectedPackageFiles": [
     "/Users/otrix/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "/Users/otrix/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",

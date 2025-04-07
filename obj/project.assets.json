@@ -1043,11 +1043,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/otrix/code/tpo6/SeleniumTests.csproj",
+      "projectUniqueName": "/Users/otrix/code/ui-test-tpo6/SeleniumTests.csproj",
       "projectName": "SeleniumTests",
-      "projectPath": "/Users/otrix/code/tpo6/SeleniumTests.csproj",
+      "projectPath": "/Users/otrix/code/ui-test-tpo6/SeleniumTests.csproj",
       "packagesPath": "/Users/otrix/.nuget/packages/",
-      "outputPath": "/Users/otrix/code/tpo6/obj/",
+      "outputPath": "/Users/otrix/code/ui-test-tpo6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/otrix/.nuget/NuGet/NuGet.Config"
