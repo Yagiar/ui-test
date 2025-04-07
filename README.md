@@ -16,8 +16,8 @@
 
 1. Клонируйте репозиторий:
    ```
-   git clone <URL репозитория>
-   cd <имя директории>
+   git https://github.com/Yagiar/ui-test
+   cd ui-test
    ```
 
 2. Восстановите пакеты NuGet:
