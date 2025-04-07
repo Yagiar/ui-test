@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzvXj/evAA6oFz/emd9hKON5ATcEXn1oE3ek2KoXXaGYOSM+4X0snfF7JIU8+yT+Ce6eyx3huFPg50ixkir/zg==",
+  "success": true,
+  "projectFilePath": "/Users/otrix/code/tpo6/SeleniumTests.csproj",
+  "expectedPackageFiles": [
+    "/Users/otrix/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/microsoft.net.test.sdk/17.5.0/microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/microsoft.testplatform.objectmodel/17.5.0/microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/microsoft.testplatform.testhost/17.5.0/microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/selenium.support/4.10.0/selenium.support.4.10.0.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/selenium.webdriver/4.10.0/selenium.webdriver.4.10.0.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/selenium.webdriver.chromedriver/134.0.6998.3500/selenium.webdriver.chromedriver.134.0.6998.3500.nupkg.sha512",
+    "/Users/otrix/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
